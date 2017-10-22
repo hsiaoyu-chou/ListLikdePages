@@ -1,0 +1,1 @@
+web: java -jar target/LikedPages-0.1.0.jar
